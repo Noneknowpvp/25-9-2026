@@ -1,0 +1,5 @@
+dan_so = float(input())
+ty_le = float(input())
+nam1 = dan_so * (1 + ty_le/100)
+nam2 = nam1 * (1 + ty_le/100)
+print (nam1,nam2)

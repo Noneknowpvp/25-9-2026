@@ -1,0 +1,5 @@
+dai_p = float(input())
+rong_p = float(input())
+cao_p = float(input())
+cua = float(input())
+print("Diện tích cần sơn", 2*(dai_p+rong_p)*cao_p - cua)
